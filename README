@@ -1,3 +1,7 @@
+The repository was forked from MIT Community to practice personal coding ability w.r.t O/S.
+Any comments or discussion over the materials is welcomed.
+
+
 xv6 is a re-implementation of Dennis Ritchie's and Ken Thompson's Unix
 Version 6 (v6).  xv6 loosely follows the structure and style of v6,
 but is implemented for a modern RISC-V multiprocessor using ANSI C.
